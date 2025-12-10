@@ -818,7 +818,7 @@
 				GCC_PREFIX_HEADER = Lemuria_Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				MACOSX_DEPLOYMENT_TARGET = 13.5;
 				PRODUCT_BUNDLE_IDENTIFIER = net.riverdark.Lemuria;
 				PRODUCT_NAME = Lemuria;
 				VERSIONING_SYSTEM = "";
@@ -840,7 +840,7 @@
 				GCC_PREFIX_HEADER = Lemuria_Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				MACOSX_DEPLOYMENT_TARGET = 13.5;
 				PRODUCT_BUNDLE_IDENTIFIER = net.riverdark.Lemuria;
 				PRODUCT_NAME = Lemuria;
 				VERSIONING_SYSTEM = "";
